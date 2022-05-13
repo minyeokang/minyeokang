@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+
+
+
+![person-studying-at-a-desk 2](https://user-images.githubusercontent.com/102668596/168232042-4ebe2aa2-1c15-4851-a779-152a4d017a11.png)
+
+
 <!--
 **minyeokang/minyeokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
