@@ -1,14 +1,12 @@
-**Hello ! I'm minyeo kang
+Hello ! I'm minyeo kang
 
 
-![person-studying-at-a-desk 2](https://user-images.githubusercontent.com/102668596/168233139-3a05f606-c758-4395-9804-bc4af81f5ef4.png)
-
-
-
+![person-studying-at-a-desk 2](https://user-images.githubusercontent.com/102668596/168233990-b51ffa5c-f565-4faf-9e5c-cc07c792435a.png)
 
 
 
-hi
+
+
 <!--
 **minyeokang/minyeokang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
