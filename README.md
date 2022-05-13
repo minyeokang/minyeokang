@@ -1,10 +1,6 @@
 
 
-
-![person-studying-at-a-desk 2](https://user-images.githubusercontent.com/102668596/168233990-b51ffa5c-f565-4faf-9e5c-cc07c792435a.png)
-
-
-
+![person-studying-at-a-desk 2](https://user-images.githubusercontent.com/102668596/168234293-9f10dc69-152f-475a-8402-c0d7422a3a2c.png)
 
 
 <!--
